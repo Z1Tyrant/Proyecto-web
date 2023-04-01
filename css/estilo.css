@@ -1,0 +1,24 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#carrusel{
+    margin: 50px;
+    justify-content: center;
+    width: 1000px;
+    height: 500px;
+
+}
+
+.carousel-control-prev-icon{
+    
+    background-color: #E6209A;
+    padding: 15px;
+    border-radius: 100%;
+}
+
+.carousel-control-next-icon{
+    background-color: #1DACFF;
+    padding: 15px;
+    border-radius: 100%;
+}
